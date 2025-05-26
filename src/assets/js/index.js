@@ -26,14 +26,3 @@ function closeFuncIcon () {
         containerCookieConsent.classList.add('hidden');
     });
 }
-
-/*
-<div id="container-cookie-consent">
-    <div class="close">&times;</div>
-    <div class="container-content-cookies">
-        <img src="assets/img/icon/cookie.png" alt="Cookie Image" class="cookie">
-        <p class="desc-cookie">We use cookies to impove your user experience</p>
-        <button class="ok">I like Cookies</button>
-    </div>
-</div>
-*/
