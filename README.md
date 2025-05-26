@@ -38,7 +38,7 @@ A seção abaixo foi adicionada para caso queira verificar algum conteúdo de es
 
 *Tipo do Estudo* | Nome do Artigo
 :---------: | :------:
-**roadmap.sh** | O link do projeto pode ser encontrado <a href="https://roadmap.sh/projects/simple-tabs">aqui</a>
+**roadmap.sh** | O link do projeto pode ser encontrado <a href="https://roadmap.sh/projects/cookie-consent">aqui</a>
 
 <h1 id="credits"> Créditos </h1>
 
