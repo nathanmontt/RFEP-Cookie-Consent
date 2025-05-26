@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
 <head>
     <meta charset="UTF-8">
     <meta name="name" content="Nathan Monteiro">
     <meta name="copyright" content="© 2025 Nathan Monteiro">
     <meta name="publisher" content="Nathan Monteiro">
     <meta name="description" content="Projeto vindo do site roadmap.sh para portifólio e currículo pessoal.">
-    <meta name="keywords" content="project, projeto, testimonial, cards, development, web dev., web dev, web development, html, css, js, javascript">
+    <meta name="keywords" content="project, projeto, cookie consent, cookie-consent, cards, development, web dev., web dev, web development, html, css, js, javascript">
 
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 
-    <meta property="og:title" content="Testimonial Cards, by Nathan Monteiro from roadmap.sh"/>
+    <meta property="og:title" content="Cookie Consent, by Nathan Monteiro from roadmap.sh"/>
     <meta property="og:type" content="article"/>
     <meta property="og:locale" content="pt_BR"/>
 
@@ -19,10 +19,17 @@
     <meta http-equiv="content-type" content="text/html">
 
     <link rel="stylesheet" href="assets/style/style.css">
-    <script src="assets/js/index.js"></script>
+    <script defer src="assets/js/index.js"></script>
 
-    <title>roadmap - Testimonial Cards</title>
+    <title>roadmap - Cookie Consent</title>
 </head>
 <body>
-    
+    <div id="container-cookie-consent" class="hidden">
+        <div class="close">&times;</div>
+        <div class="container-content-cookies">
+            <img src="assets/img/icon/cookie.png" alt="Cookie Image" class="cookie">
+            <p class="desc-cookie">We use cookies to impove your user experience</p>
+            <button class="ok">I like Cookies</button>
+        </div>
+    </div>
 </body>
